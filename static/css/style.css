@@ -2,6 +2,13 @@
 body {
     background-color: brown;
 }
-.navbar {
-    margin-bottom: 20px;
+
+  #why-choose-hpfm {
+    background: rgb(23,36,0);
+background: linear-gradient(342deg, rgba(23,36,0,1) 0%, rgba(9,121,28,1) 39%, rgba(49,210,40,1) 100%);
   }
+  
+.radial {
+    background: rgb(23,36,0);
+    background: radial-gradient(circle, rgba(23,36,0,0.4822303921568627) 0%, rgba(9,121,28,0.2861519607843137) 39%, rgba(49,210,40,0.3897934173669467) 100%);
+}
