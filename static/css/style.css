@@ -1,4 +1,7 @@
 /* Style sheets */
+body {
+    background-color: brown;
+}
 .navbar {
     margin-bottom: 20px;
   }
